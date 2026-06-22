@@ -1,0 +1,6 @@
+streamlit
+deep-translator
+langdetect
+PyPDF2
+python-docx
+pandas
